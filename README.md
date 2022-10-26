@@ -1,7 +1,7 @@
 # C# Project Files 📂
 ## Just random codes while learning C#
 
-### ⚠️___Things to Note___⚠️
+### ⚠️ ___Things to Note___ ⚠️
 * The Codes are arranged in their specific folders, each named in the order of `Second`, `Third` and so on.
 * The Main codes of each program are in the file `Program.cs` in their root folders.
 * The only exception to Rule 1 is the program `First`,which is named as `New`.
