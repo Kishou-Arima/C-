@@ -1,0 +1,15 @@
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\bin\Debug\net6.0\Fifth.exe
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\bin\Debug\net6.0\Fifth.deps.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\bin\Debug\net6.0\Fifth.runtimeconfig.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\bin\Debug\net6.0\Fifth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\bin\Debug\net6.0\Fifth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.csproj.AssemblyReference.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfoInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.AssemblyInfo.cs
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.csproj.CoreCompileInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\refint\Fifth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\Fifth.genruntimeconfig.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Fifth\obj\Debug\net6.0\ref\Fifth.dll

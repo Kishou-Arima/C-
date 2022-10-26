@@ -1,0 +1,15 @@
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\bin\Debug\net6.0\New.exe
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\bin\Debug\net6.0\New.deps.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\bin\Debug\net6.0\New.runtimeconfig.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\bin\Debug\net6.0\New.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\bin\Debug\net6.0\New.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.csproj.AssemblyReference.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.AssemblyInfoInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.AssemblyInfo.cs
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.csproj.CoreCompileInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\refint\New.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\New.genruntimeconfig.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\New\obj\Debug\net6.0\ref\New.dll
