@@ -1,0 +1,15 @@
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.csproj.AssemblyReference.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.AssemblyInfoInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.AssemblyInfo.cs
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.csproj.CoreCompileInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\bin\Debug\net7.0\Eighth.exe
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\bin\Debug\net7.0\Eighth.deps.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\bin\Debug\net7.0\Eighth.runtimeconfig.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\bin\Debug\net7.0\Eighth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\bin\Debug\net7.0\Eighth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\refint\Eighth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\Eighth.genruntimeconfig.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Eighth\obj\Debug\net7.0\ref\Eighth.dll

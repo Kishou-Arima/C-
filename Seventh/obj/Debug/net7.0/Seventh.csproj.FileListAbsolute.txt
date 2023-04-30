@@ -1,0 +1,15 @@
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.csproj.AssemblyReference.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.AssemblyInfoInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.AssemblyInfo.cs
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.csproj.CoreCompileInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\bin\Debug\net7.0\Seventh.exe
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\bin\Debug\net7.0\Seventh.deps.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\bin\Debug\net7.0\Seventh.runtimeconfig.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\bin\Debug\net7.0\Seventh.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\bin\Debug\net7.0\Seventh.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\refint\Seventh.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\Seventh.genruntimeconfig.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Seventh\obj\Debug\net7.0\ref\Seventh.dll

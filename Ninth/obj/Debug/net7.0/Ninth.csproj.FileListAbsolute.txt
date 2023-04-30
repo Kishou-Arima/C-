@@ -1,0 +1,15 @@
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\bin\Debug\net7.0\Ninth.exe
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\bin\Debug\net7.0\Ninth.deps.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\bin\Debug\net7.0\Ninth.runtimeconfig.json
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\bin\Debug\net7.0\Ninth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\bin\Debug\net7.0\Ninth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.csproj.AssemblyReference.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.AssemblyInfoInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.AssemblyInfo.cs
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.csproj.CoreCompileInputs.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\refint\Ninth.dll
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.pdb
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\Ninth.genruntimeconfig.cache
+C:\Users\utkaa\OneDrive\Desktop\OneDrive-2020-09-15\Program\C#\Ninth\obj\Debug\net7.0\ref\Ninth.dll
