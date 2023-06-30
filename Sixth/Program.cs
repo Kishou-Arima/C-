@@ -1,9 +1,9 @@
 ﻿using OpenAI_API;
   
-var openAi = new OpenAIAPI("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");
+var openAi = new OpenAIAPI("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");
 var completions=openAi.Completions.CreateCompletionAsync
 (
-    prompt:"Write a poem on an MKIV Supra in the style of Rabindra Nath Tagore",
+    prompt:"What would happen if all people above 21 suddenly disappeared?",
     model:"text-davinci-002",
     max_tokens:100
 );
