@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLd2gSlU0jKcW84eeAHM/zqiK1LUWi2IdRcdE0sRSBNYYjIgWIXhEBNhYwCuSj5wh2TPs+/CfRomFAoHfOAImg==",
+  "dgSpecHash": "wnWVo0fm4nvzPMecmoqKhMO8ie98HyMqB4nuezpGuA/kz4iAKD6KviwlqG4Mz5T0pPf8RFvrchFRBV3IaQZsYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
+  "projectFilePath": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utkaa\\.nuget\\packages\\betalgo.openai.gpt3\\6.8.1\\betalgo.openai.gpt3.6.8.1.nupkg.sha512",
     "C:\\Users\\utkaa\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

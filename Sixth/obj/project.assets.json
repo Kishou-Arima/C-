@@ -696,11 +696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
+      "projectUniqueName": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
       "projectName": "Sixth",
-      "projectPath": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
+      "projectPath": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\Sixth.csproj",
       "packagesPath": "C:\\Users\\utkaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\obj\\",
+      "outputPath": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Sixth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -716,8 +716,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://packages.stride3d.net/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -764,7 +763,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

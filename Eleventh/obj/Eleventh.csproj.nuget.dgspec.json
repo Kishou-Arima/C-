@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Third\\Third.csproj": {}
+    "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Eleventh\\Eleventh.csproj": {}
   },
   "projects": {
-    "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Third\\Third.csproj": {
+    "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Eleventh\\Eleventh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Third\\Third.csproj",
-        "projectName": "Third",
-        "projectPath": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Third\\Third.csproj",
+        "projectUniqueName": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Eleventh\\Eleventh.csproj",
+        "projectName": "Eleventh",
+        "projectPath": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Eleventh\\Eleventh.csproj",
         "packagesPath": "C:\\Users\\utkaa\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Third\\obj\\",
+        "outputPath": "C:\\Users\\utkaa\\OneDrive\\Desktop\\OneDrive-2020-09-15\\Program\\C#\\Eleventh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
